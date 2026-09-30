@@ -1,0 +1,6 @@
+username,sku_code,behavior_type,behavior_time
+csvuser01,C1001,browse,2024-03-01 09:00:00
+csvuser01,C1001,favorite,2024-03-01 09:05:00
+csvuser01,C1001,cart,2024-03-01 09:10:00
+csvuser02,C1002,browse,2024-03-02 14:00:00
+csvuser02,C1002,purchase,2024-03-02 15:00:00

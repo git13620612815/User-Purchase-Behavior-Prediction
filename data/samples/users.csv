@@ -1,0 +1,3 @@
+username,nickname,gender,age,phone,email,register_time
+csvuser01,导入用户一,男,22,13800000001,csv1@example.com,2024-01-02 10:00:00
+csvuser02,导入用户二,女,28,13800000002,csv2@example.com,2024-02-03 11:20:00
